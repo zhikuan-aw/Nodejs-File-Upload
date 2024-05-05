@@ -4,8 +4,8 @@ This application allows users to upload CSV files, view the uploaded data with p
 
 ## Components
 
-- **Frontend**: Built with React and TypeScript, providing interfaces for file upload, data display, pagination, and searching.
-- **Backend**: Developed using Node.js, Express, and TypeScript. It handles file uploads, parses CSV files, and serves the paginated and searchable data via RESTful APIs.
+- **Frontend**: Built with React, providing interfaces for file upload, data display, pagination, and searching.
+- **Backend**: Developed using Node.js and Express. It handles file uploads, parses CSV files, and serves the paginated and searchable data via RESTful APIs.
 
 ## Getting Started
 
@@ -21,6 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 #### 1. Clone the repository
 
 git clone https://github.com/zhikuan-aw/Nodejs-File-Upload.git
+
 cd your-repository
 
 #### 2. Install dependencies and set up the backend
@@ -58,4 +59,5 @@ The application will run on http://localhost:3001
 ### Built With
 
 React - The web framework used for the frontend.
+
 Node.js - The runtime environment for the backend.

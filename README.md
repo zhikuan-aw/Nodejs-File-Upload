@@ -28,10 +28,12 @@ cd your-repository
 Navigate to the server directory and install the necessary packages.
 
 `cd server`
+
 `npm install`
 
 Start the backend server:
 `npm start`
+
 The server will run on http://localhost:3000.
 
 #### 3. Install dependencies and set up the frontend
@@ -39,9 +41,12 @@ The server will run on http://localhost:3000.
 Open a new terminal window, navigate to the client directory, and install the necessary packages.
 
 `cd ../client`
+
 `npm install`
+
 Start the frontend application:
 `npm start`
+
 The application will run on http://localhost:3001
 
 ## Usage

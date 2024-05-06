@@ -2,6 +2,8 @@
 
 This application allows users to upload CSV files, view the uploaded data with pagination, and perform searches within the data. It consists of a React frontend and a Node.js backend.
 
+**Author**: zg.ldqsn@gmail.com
+
 ## Components
 
 - **Frontend**: Built with React, providing interfaces for file upload, data display, pagination, and searching.

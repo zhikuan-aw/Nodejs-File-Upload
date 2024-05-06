@@ -121,6 +121,11 @@ const DataList = () => {
                 {currentPage} of {totalPages} page(s)
               </span>
             )}
+            {search && !data?.length > 0 && (
+              <span className='flex justify-center text-lg font-semibold mt-8'>
+                {`No data found in search for ${search}...`}
+              </span>
+            )}
           </div>
         </>
       )}
